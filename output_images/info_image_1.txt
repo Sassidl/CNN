@@ -1,0 +1,4 @@
+Forme de l'image : torch.Size([3, 416, 416])
+Échelle 1 - Forme des prédictions : torch.Size([1, 75, 13, 13])
+Échelle 2 - Forme des prédictions : torch.Size([1, 75, 26, 26])
+Échelle 3 - Forme des prédictions : torch.Size([1, 75, 52, 52])
